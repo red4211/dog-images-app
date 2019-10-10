@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/dog-images-app/static/css/main.2ab1821c.chunk.css",
+    "main.js": "/dog-images-app/static/js/main.3127e6f4.chunk.js",
+    "main.js.map": "/dog-images-app/static/js/main.3127e6f4.chunk.js.map",
+    "runtime-main.js": "/dog-images-app/static/js/runtime-main.58f3d538.js",
+    "runtime-main.js.map": "/dog-images-app/static/js/runtime-main.58f3d538.js.map",
+    "static/js/2.9088ebdd.chunk.js": "/dog-images-app/static/js/2.9088ebdd.chunk.js",
+    "static/js/2.9088ebdd.chunk.js.map": "/dog-images-app/static/js/2.9088ebdd.chunk.js.map",
+    "index.html": "/dog-images-app/index.html",
+    "precache-manifest.5e7d9a2395b4385b490f754b85240c91.js": "/dog-images-app/precache-manifest.5e7d9a2395b4385b490f754b85240c91.js",
+    "service-worker.js": "/dog-images-app/service-worker.js",
+    "static/css/main.2ab1821c.chunk.css.map": "/dog-images-app/static/css/main.2ab1821c.chunk.css.map",
+    "static/media/logo.svg": "/dog-images-app/static/media/logo.25bf045c.svg"
+  }
+}
