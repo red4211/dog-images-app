@@ -1,22 +1,66 @@
 .App {
-  text-align: center;
+  padding-top: 15px;
 }
 
-.App-logo {
-  height: 40vmin;
-}
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+
+.dogs-list{
   display: flex;
-  flex-direction: column;
-  align-items: center;
+  flex-wrap:wrap;
+  margin: 0;
+  padding: 0 12px;
+  list-style:none;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
 }
 
-.App-link {
-  color: #09d3ac;
+.dogs-list li{
+  max-width: 600px;
+  margin: 0 15px 20px 0;
+}
+
+li.suggestion-active{
+  background: lightgrey;
+}
+
+.dogs-list img{
+  max-width: 100%;
+  height: auto;
+}
+
+.title{
+  text-align: center;
+  font-size: 24px;
+  font-weight: bold;
+  margin: 0 0 10px 0;
+}
+
+.search-inp{
+  display: block;
+  box-sizing: border-box;
+  width: 300px;
+  margin: 0 auto;
+  height: 35px;
+  line-height: 35px;
+  padding: 5px;
+}
+
+.suggestions{
+  list-style:none;
+  margin: 0;
+  padding: 0;
+  width: 300px;
+  position: absolute;
+  left: 0;
+  top: 35px;
+  background: #fff;
+}
+.suggestions li{
+  padding: 5px;
+}
+
+.search-form{
+  width: 300px;
+  margin: 0 auto;
+  margin-bottom: 20px;
+  position: relative;
 }
